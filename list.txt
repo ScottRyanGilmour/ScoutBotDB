@@ -444,7 +444,7 @@ Josco:Foe
 B1acklisted:Foe
 rainz:Foe
 cb88:Foe
-zewka:Losers
+Zewka:Losers
 Ghost Sabre:Wilderness Guardians
 S m o k e:Wilderness Guardians
 WG 2GEW 1poo:Wilderness Guardians
